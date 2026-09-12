@@ -1,4 +1,4 @@
-[![Support me on Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/tojikoumori)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-support-yellow?logo=buy-me-a-coffee)](https://buymeacoffee.com/tojikoumori)
 
 # POPSDualAnalog-PSP
 This is a plugin that enables the usage of the second analog stick on psp-converted PS1 games.

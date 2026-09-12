@@ -1,8 +1,5 @@
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-support-yellow?logo=buy-me-a-coffee)](https://buymeacoffee.com/tojikoumori)
 
-# POPSDualAnalog-PSP
-This is a plugin that enables the usage of the second analog stick on psp-converted PS1 games.
-
 # Usage
 1. Create a folder called "seplugins" on the root of your memory stick and extract the zip inside it
 2. In-game, you can use the emulated second stick by holding L and using ∆/□/O/X
